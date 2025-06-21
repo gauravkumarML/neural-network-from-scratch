@@ -16,16 +16,13 @@ $ pip install -r requirements.txt
 # Launch the Streamlit 
 $ streamlit run model/app.py
 
-Visit http://localhost:8501, draw any digit, press Predict.
-
-⸻
 
 Project structure
 
 model/
  ├─ app.py              ← Streamlit interface
  ├─ scratch_nn.py       ← NumPy inference helpers
- ├─ mnist_scratch_weights.npz  (≈60 kB)
+ ├─ mnist_scratch_weights.npz 
  └─ __init__.py
 requirements.txt         ← numpy, opencv-python-headless, streamlit, drawable-canvas
 
