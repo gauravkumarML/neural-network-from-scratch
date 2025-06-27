@@ -1,6 +1,8 @@
-**Draw-a-Digit – lightweight MNIST**
+**Draw-a-Digit – MNIST**
 
-An interactive sketch-pad that runs a fully-connected neural network written from scratch in NumPy and visualises the pixels that influenced its decision.
+Idea was to build neural network from scratch but also make it somewhat interactive. 
+
+So this is an interactive sketch-pad that runs a NN and visualises the pixels that influenced its decision.
 
 
 
